@@ -1,4 +1,4 @@
-Banco de Dados voltado para aplicação web.
+Banco de Dados criado em SQL voltado para aplicação web.
 Trata-se de um projeto pessoal e coletivo que está em desenvolvimento.
 A idéia é criar uma aplicação inicialmente com funções específicas para auxiliar vendedores internos da minha empresa e posteriormente realizar aprimoramentos.
 Algumas funções: 
